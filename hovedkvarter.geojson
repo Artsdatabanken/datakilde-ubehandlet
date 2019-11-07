@@ -96,6 +96,16 @@
       "properties": {
         "kode": "OR-MDIR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.3844981,63.4290531]
+      },
+      "properties": {
+        "kode": "OR-VM"
+      }
     }
   ]
 }
