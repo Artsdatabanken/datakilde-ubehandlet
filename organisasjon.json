@@ -86,5 +86,16 @@
       "nb": "The Paleobiology Database is a public database of paleontological data that anyone can use, maintained by an international non-governmental group of paleontologists."
     },
     "infoUrl": "https://paleobiodb.org"
+  },
+  "OR-VM": {
+    "farge": "#00509e",
+    "tittel": {
+      "nb": "NTNU Vitenskapsmuseet",
+      "en": "NTNU University museum"
+    },
+    "ingress": {
+      "nb": "NTNU Vitenskapsmuseet i Trondheim er ett av sju norske universitetsmuseer, med natur- og kulturhistoriske samlinger og utstillinger. Museet har forsknings- og forvaltningsansvar innenfor arkeologi og biologi i Midt-Norge. I tillegg driver museet en omfattende formidlingsvirksomhet og har utstillinger i tre bygg på Kalvskinnet."
+    },
+    "infoUrl": "https://www.ntnu.no/museum"
   }
 }
